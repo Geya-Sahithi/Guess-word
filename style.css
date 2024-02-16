@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(https://www.hitbullseye.com/images/school.svg);
+    background-color:#000080;
     display: flex;
     justify-content: center;
     align-items: center;
